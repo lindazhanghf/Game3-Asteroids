@@ -4,7 +4,13 @@
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
-/Assets/Libraries/
+
+/Assets/Libraries
+# Ingored assets from the AssetStore
+#/Assets/Libraries/CubeSpace/
+#/Assets/Libraries/Ground texture pack/
+#/Assets/Libraries/Low_poly_styled_rocks/
+#/Assets/Libraries/Stagit/
 
 # Visual Studio 2015 cache directory
 /.vs/
